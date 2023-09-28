@@ -16,10 +16,10 @@ $ yarn watch # npm run watch
 ```
 
 ## About
-An airbnb experiences page clone project that I learnt from scrimba
+An airbnb experiences page simple clone project that I learnt from scrimba
 
+- [Link to the clone](https://stellar-puffpuff-67954f.netlify.app/)
 - [Scrimba courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
