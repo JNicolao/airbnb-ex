@@ -1,4 +1,4 @@
-### README
+### Airbnb Experiences Clone
 
 Quick start:
 
